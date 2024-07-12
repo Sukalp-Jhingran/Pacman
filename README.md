@@ -1,6 +1,6 @@
 # Pacman Game
-  -> This project is a simple implementation of the classic Pacman game using the pygame library. 
-  -> The game includes basic functionalities such as player movement, ghost movement, and rendering of the game board.
+This project is a simple implementation of the classic Pacman game using the pygame library. 
+The game includes basic functionalities such as player movement, ghost movement, and rendering of the game board.
 
 # Overview
 - This project implements a basic version of the Pacman game using Python and the pygame library. The game features a player-controlled Pacman character that moves around the board, collecting dots and avoiding ghosts.
